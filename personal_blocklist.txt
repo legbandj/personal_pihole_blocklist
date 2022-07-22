@@ -26,3 +26,5 @@
 0.0.0.0 quota.fe.apple-dns.net
 0.0.0.0 fmipmobile.fe.apple-dns.net
 0.0.0.0 us.dev.zeronaught.com
+0.0.0.0 mask.icloud.com
+0.0.0.0 mask-h2.icloud.com
