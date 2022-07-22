@@ -1,3 +1,4 @@
 0.0.0.0 legacy._segment._tcp.steelseries.com
 0.0.0.0 engine._segment._tcp.steelseries.com
 0.0.0.0 doh.dns.apple.com
+0.0.0.0 gateway.fe.apple-dns.net
