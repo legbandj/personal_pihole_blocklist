@@ -25,3 +25,4 @@
 0.0.0.0 gateway-asset.ce.apple-dns.net
 0.0.0.0 quota.fe.apple-dns.net
 0.0.0.0 fmipmobile.fe.apple-dns.net
+0.0.0.0 us.dev.zeronaught.com
